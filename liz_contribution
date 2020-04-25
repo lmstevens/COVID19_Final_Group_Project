@@ -1,0 +1,35 @@
+During this project I worked on individual contributions, and supported others doing additional work as well. 
+
+Individual Contributions:
+
+I spent 6-7 hours researching different datasets/websites/API options for the data we might use for the final project.
+We ended up using data I collected from Kaggle.com on Hostipals/Healthcare Access, and USDA data on poverty and population.
+
+I read in the hospital_sv, created a dataframe and cleaned up the data. With this data I created a scatter plot on # of ICU 
+beds utilized (% of total beds) and total deaths by state. I also further formatted the existing Aggressiveness Ranking 
+dataframe and created a bar chart that showed each states rank (1-50) and total deaths. I also created a pie chart that looked
+at total recoveries by state that we ended up not using because on 1/3 of states had shared recovery rates. 5 hours. 
+
+I project managed the group:
+ - I listened to group input and wrote up our proposal and shared with Steve. 1 hour. 
+ - I created a trello board for us to track work (that we ultimately stopped using). 2 hours.
+ - I set tasks, divided up work, and followed up with folks when we were missing something/a team member was not 
+   meeting a deadline. 2 hours.
+ - I worked hard to keep the team upbeat and moving forward (which sometimes meant telling certain group members when we 
+   needed to move on/when it should ask for additional help from TAs. 2 hours. 
+ 
+ I created the google slide presentation template and shared with everyone to contribute their graphs/images, synthesized our 
+ findings in an easy to understand format: (Question,Hypothesis, Conclusions), and helped everyone practice. 7 hours. 
+ 
+ Support:
+ I spent roughly 6-7 hours with Jimmy on Git trying to figure out how to get our team to correctly push/pull/branch/merge work
+ without losing work from other team members at the beginning of the project.I even started to create a best practices document
+ for folks, but ended that side-project when I ran out of time.
+ 
+ I was a third set of eyes when Jimmy and Sequoyah cleaned data and created two master dataframes. 5 hours.
+ 
+ I worked with Jimmy to fix the hospitals_csv dataframe at the end of the project when I realized I missed-interpretted
+ some of the data. 2 hours.
+ 
+ I did my best to support other team members to the best of my ability, and am really proud of our collective efforts!
+ Total hours (that I can remember):40 hours
